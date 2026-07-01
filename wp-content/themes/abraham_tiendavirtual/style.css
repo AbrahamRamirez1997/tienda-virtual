@@ -425,3 +425,7 @@ li.product-category img:hover {
      filter: grayscale(0%);
     transform: scale(1.1, 1.1);
 }
+
+.fa.fa-shopping-cart::before{
+    margin-right: 10px;
+}
